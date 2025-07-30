@@ -1,0 +1,1 @@
+This is a simple project that I have been using to learn tkinter. I have also learned how to use multiple files in python at once during this project. I hope to expand this project if I feel the need to expand on any skills further.
